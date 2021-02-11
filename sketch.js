@@ -1,4 +1,15 @@
-// Global Variables
+
+/*************************************************************************
+    Project name: CodeSelf Portrait
+          by Xinyu Yang
+    Overview 
+      This is Code Self-Portrait project. I use setup() and draw() functions to draw hair, neck, face,
+      eyes, eyebrows, nose and mouth. I use some funtions like curve, curveVertex, line and others to 
+      draw these.
+    ---------------------------------------------------------------------
+    Notes: 
+     (1) The JPEG of the hand drawn portrait included in Github file.
+**************************************************************************/
 
 
 // Setup code goes here
